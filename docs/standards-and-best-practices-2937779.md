@@ -2,7 +2,7 @@
 
 # Standards and Best Practices
 
-SAP Business Application Studio implements security standards and best practices to guarantee secured solution.
+SAP Business Application Studio implements security standards and best practices to guarantee a secure solution.
 
 For example:
 
